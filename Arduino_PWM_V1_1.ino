@@ -1,4 +1,5 @@
-    const int setPoint = 13.5 * 20 / (20+82) * 1024 / 5;
+    //Version 1.1 code with better blinking of pin 13 integrated LED according to PWM pulses:
+     const int setPoint = 13.5 * 20 / (20+82) * 1024 / 5;
      int measurement = 0;
      int pulseWidth = 0;
      int difference = 0;
