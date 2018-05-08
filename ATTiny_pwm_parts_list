@@ -1,0 +1,18 @@
+Parts List
+1x Arduino Nano Clone: https://goo.gl/lgAAdC
+1x IRF3205 Mosfet: https://goo.gl/eepYsc
+1x 2N3904 NPN Transistor: https://goo.gl/dbsFjG
+2x 2N3906 PNP Transistor: https://goo.gl/Ju6JQ7
+4x 1N4148 Diode: https://goo.gl/Dz58VA
+1x P6KE33CA TVS Diode: https://goo.gl/4JNAxH
+1x 90SQ035 Schottky Diode 9A/35v (or similar): https://goo.gl/c9W9Mn
+2x 47nF 50v Ceramic Capacitor: https://goo.gl/XXsRcx
+1x 1uF 50v Ceramic Capacitor: https://goo.gl/d6S8Vg
+1x 220pF 100v Ceramic Capacitor: https://goo.gl/H3jQpw
+1x 470nF 10v Tantalum Capacitor: https://goo.gl/32leQJ
+2x 1uF 35v Tantalum Capacitor: https://goo.gl/zpBuUy
+1x 82k 1% 0.25w Resistor: https://goo.gl/yvhjPA
+1x 20K 1% 0.25w Resistor: https://goo.gl/1hdms1
+3x 220K 0.5w Resistor: https://goo.gl/MQYTwH
+1x 4.7K 0.5w Resistor: https://goo.gl/phf1uD
+1x Verobaord: https://goo.gl/Jefc5v
